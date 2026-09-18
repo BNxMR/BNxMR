@@ -1,48 +1,31 @@
-# Hi, I'm BNxMR 👋
+```
+$ whoami
+BNxMR — a software developer.
+```
 
-Full-stack web developer building products end-to-end — from PHP backends and Telegram bots to multilingual, RTL-ready frontends.
+I write code for the web, end to end, and build systems-level tools when the job calls for it.
 
-## 🚀 What I Work On
+## Languages
 
-- 🛍️ **E-commerce & catalog platforms** — multilingual (FA/AR/EN) storefronts with inventory, brand, and comparison modules
-- 🤖 **Telegram Bots** — PHP-based bots for automation and services
-- 🌐 **Web Platforms** — team & agency websites, deployed and maintained end-to-end
-- 🛠️ **Internal Tooling** — custom PHP utilities for web workflows
+**Web**
 
-## 🧰 Tech Stack
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `PHP`
 
-**Languages & Core**
+**Systems / General Purpose**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+`Python` · `Rust` · `Go`
 
-**Platforms & Tools**
+## Projects
 
-![Telegram](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Repository | Description |
+| --- | --- |
+| [Saramand](https://github.com/BNxMR/Saramand) | Multilingual (Persian / Arabic / English) product catalog and storefront |
+| [Telegrambot](https://github.com/BNxMR/Telegrambot) | Telegram bot, written in PHP |
+| [QuadWeb](https://github.com/BNxMR/QuadWeb) | Team website — [quadweb.ir](https://quadweb.ir) |
+| [WebTools](https://github.com/BNxMR/WebTools) | PHP utilities for web workflows |
+| [Douweb](https://github.com/BNxMR/Douweb) | Web platform built for reliable access from Iran |
 
-## 📌 Featured Projects
+## Stats
 
-| Project | Description |
-|---|---|
-| 🛍️ **Saramand** | Multilingual (FA/AR/EN) product catalog & storefront — brands, inventory, comparison, and contact modules |
-| 🤖 **Telegrambot** | PHP-based Telegram bot |
-| 🌐 **QuadWeb** | Team website — [quadweb.ir](https://quadweb.ir) |
-| 🧰 **WebTools** | Custom PHP web utilities |
-| 🚀 **Douweb** | Web platform built for reliable access from Iran |
-
-## 📊 GitHub Stats
-
-![BNxMR's GitHub stats](https://github-readme-stats.vercel.app/api?username=BNxMR&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BNxMR&layout=compact&theme=radical&hide_border=true)
-
-## 📫 Get in Touch
-
-Open to collaboration on web development, e-commerce platforms, and Telegram bot projects. Feel free to open an issue or reach out.
-
----
-
-⭐️ From [BNxMR](https://github.com/BNxMR)
+![BNxMR's GitHub stats](https://github-readme-stats.vercel.app/api?username=BNxMR&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNxMR&layout=compact&theme=dark&hide_border=true&hide_title=true)
